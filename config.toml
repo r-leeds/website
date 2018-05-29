@@ -1,0 +1,55 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Leeds R Users"
+theme = "ghostwriter"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[Author]
+    name = "Ed Berry"
+    profile = "https://twitter.com/ed_berry"
+    
+[Params]
+    intro = true
+    headline = "Leeds R Users"
+    description = "A monthly meet-up in Leeds for users of R, the statistical programming language"
+    github = "https://github.com/r-users-leeds"
+    #gitlab = "https://gitlab.com/XXX"
+    #linkedin = "https://linkedin.com/in/XXX/"
+    #gplus = "https://google.com/+XXX"
+    twitter = "https://twitter.com/r_users_leeds"
+    #stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    email = "r.users.leeds@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+    
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    
+[params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
+[Taxonomies]
+    tag = "tags"
+
