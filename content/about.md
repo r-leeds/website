@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2016-05-05T21:48:51-07:00"
+date: "2018-05-30"
 ---
 We are in the process of organising a monthly meetup for R users in Leeds, UK.
 The talks will be hosted at the offices of [Sky Betting & Gaming](https://skybetcareers.com/) in Leeds.

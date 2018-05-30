@@ -1,13 +1,13 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "R Users"
+title = "R Users Leeds"
 theme = "ghostwriter"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Author]
-    name = "Leeds"
+    name = "Leeds, UK"
 #    profile = "https://twitter.com/ed_berry"
     
 [Params]
@@ -43,6 +43,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
+[[menu.main]]
+    name = "Code of conduct"
+    url = "/codeofconduct/"
+    
     
 [params.logo]
     url = "logo.png"
