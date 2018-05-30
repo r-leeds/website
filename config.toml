@@ -1,18 +1,18 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Leeds R Users"
+title = "R Users"
 theme = "ghostwriter"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Author]
-    name = "Ed Berry"
-    profile = "https://twitter.com/ed_berry"
+    name = "Leeds"
+#    profile = "https://twitter.com/ed_berry"
     
 [Params]
     intro = true
-    headline = "Leeds R Users"
+    headline = "R Users Leeds"
     description = "A monthly meet-up in Leeds for users of R, the statistical programming language"
     github = "https://github.com/r-users-leeds"
     #gitlab = "https://gitlab.com/XXX"
