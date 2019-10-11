@@ -1,5 +1,5 @@
 # Website
-Website for the Leeds R Users group.
+Website for the R Users Leeds.
   
 Created with the help of [blogdown](https://bookdown.org/yihui/blogdown/) and powered by [Hugo](https://gohugo.io/).
   

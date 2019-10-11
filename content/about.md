@@ -1,11 +1,11 @@
 ---
 title: "About"
-date: "2018-05-30"
+date: "2019-10-11"
 ---
-We are in the process of organising a monthly meetup for R users in Leeds, UK.
-The talks will be hosted at the offices of [Sky Betting & Gaming](https://skybetcareers.com/) in Leeds.
+We are a quartly meetup for R users in Leeds, UK.
+Our meeting will be hosted centerally in Leeds both within and outside of normal office hours. 
+We are committed to creating an open and inclusive community. 
+You can read our code of conduct [here](/codeofconduct).
   
-Details of our meetings will be posted on a Meetup page.
-Slides from the talks will be shared on this site.
-  
-This group is organised by [Ed Berry](https://twitter.com/ed_berry), and [Robin Lovelace](https://www.robinlovelace.net/about/).
+Details of our meetings and slides from the talks will be shared on this site.
+You can also follow us on [Twitter](https://twitter.com/r_users_leeds), and join the community on [Gitter](https://gitter.im/R_USERS_LEEDS) and [GitHub](https://github.com/r-leeds).
