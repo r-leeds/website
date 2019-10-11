@@ -1,9 +1,7 @@
 ---
 title: "Code of conduct"
-date: "2018-05-30"
+date: "2019-10-11"
 ---
-
-**2018-05-30:** *This is a draft Code of Conduct and subject to change*
 
 R Users Leeds adhere to [R Consortium and R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 We believe the R Community should be Open, Considerate, and Respectful.
@@ -24,4 +22,4 @@ If a participant engages in harassing behaviour, representatives of the communit
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any of the organisers.
 
-This section is based on the Plone Foundation [Code of Conduct](https://plone.org/foundation/materials/foundation-resolutions/code-of-conduct), which is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
+_This section is based on the Plone Foundation [Code of Conduct](https://plone.org/foundation/materials/foundation-resolutions/code-of-conduct), which is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)._
