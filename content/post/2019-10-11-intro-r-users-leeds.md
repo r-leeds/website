@@ -20,7 +20,7 @@ We are currently finalising the details of our first event, which will be held i
 The line-up for our inaugral event is
 
 * *Reproducible wRiting with RMarkdown*. [Ed Berry](https://eddjberry.com), Senior Data Scientist, Sky Betting & Gaming
-* *Efficient WoRkflows getting more done with R". [Robin Lovelace](https://www.robinlovelace.net), University Academic Fellow, University of Leeds 
+* *Efficient WoRkflows getting more done with R*. [Robin Lovelace](https://www.robinlovelace.net), University Academic Fellow, University of Leeds 
 * *Putting the R into Reproducible Research*. [Anna Krystalli](https://annakrystalli.me), Research Software Engineer, University of Sheffield
 
 You can sign up on [EventBrite](link) if you would like to attend.
