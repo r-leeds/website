@@ -23,7 +23,7 @@ The line-up for our inaugral event is
 * *Efficient WoRkflows getting more done with R*. [Robin Lovelace](https://www.robinlovelace.net), University Academic Fellow, University of Leeds 
 * *Putting the R into Reproducible Research*. [Anna Krystalli](https://annakrystalli.me), Research Software Engineer, University of Sheffield
 
-You can sign up on [EventBrite](link) if you would like to attend.
+You can sign up on [EventBrite](https://www.eventbrite.co.uk/e/introducing-r-users-leeds-tickets-77079646297) if you would like to attend.
 
 ## Contact 
 You can keep in touch with us on [Twitter](https://twitter.com/r_users_leeds), [GitHub](https://github.com/r-leeds), [Gitter](https://gitter.im/R_USERS_LEEDS), and [email](mailto:r.users.leeds@gmail.com).
